@@ -1,0 +1,24 @@
+.tituloprincipal {
+    color: #22274c;
+    font-family: "Montserrat", sans-serif;
+}
+
+.principal {
+    font-family: "Montserrat", sans-serif;
+}
+
+.selection{
+    font-size: 20px;
+    padding-right: 30px;
+    display: inline-block;
+}
+
+.selection-list {
+    font-size: 15px;
+}
+
+.index {
+    font-size: 17px;
+    color: #22274c;
+    
+}
